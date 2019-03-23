@@ -1,0 +1,5 @@
+Auto Generating Code Documentation
+==================================
+.. automodule:: hw1_Zeng_Anna
+	:members:
+	:undoc-members:
